@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/image_tiles/static/css/main.d094f257.chunk.css",
+    "main.js": "/github.io/image_tiles/static/js/main.5a6f4bd0.chunk.js",
+    "main.js.map": "/github.io/image_tiles/static/js/main.5a6f4bd0.chunk.js.map",
+    "runtime-main.js": "/github.io/image_tiles/static/js/runtime-main.efb50fee.js",
+    "runtime-main.js.map": "/github.io/image_tiles/static/js/runtime-main.efb50fee.js.map",
+    "static/js/2.74c5395f.chunk.js": "/github.io/image_tiles/static/js/2.74c5395f.chunk.js",
+    "static/js/2.74c5395f.chunk.js.map": "/github.io/image_tiles/static/js/2.74c5395f.chunk.js.map",
+    "index.html": "/github.io/image_tiles/index.html",
+    "precache-manifest.bd79832c752f79c3b46f59686a7daa0c.js": "/github.io/image_tiles/precache-manifest.bd79832c752f79c3b46f59686a7daa0c.js",
+    "service-worker.js": "/github.io/image_tiles/service-worker.js",
+    "static/css/main.d094f257.chunk.css.map": "/github.io/image_tiles/static/css/main.d094f257.chunk.css.map",
+    "static/js/2.74c5395f.chunk.js.LICENSE.txt": "/github.io/image_tiles/static/js/2.74c5395f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.efb50fee.js",
+    "static/js/2.74c5395f.chunk.js",
+    "static/css/main.d094f257.chunk.css",
+    "static/js/main.5a6f4bd0.chunk.js"
+  ]
+}
