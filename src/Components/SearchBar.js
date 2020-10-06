@@ -59,6 +59,7 @@ class SearchBar extends React.Component {
 							onChange={ event => this.setState({ term: event.target.value })}
 							value={this.state.term}
 							onClick={this.onInputClick}
+							placeholder="Enter Search Term"
 						/>
 					<button onClick={this.buttonClick}>Search</button>
 					</div>
