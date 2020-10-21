@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/image_tiles/static/css/main.d094f257.chunk.css",
-    "main.js": "/github.io/image_tiles/static/js/main.7c552e89.chunk.js",
-    "main.js.map": "/github.io/image_tiles/static/js/main.7c552e89.chunk.js.map",
-    "runtime-main.js": "/github.io/image_tiles/static/js/runtime-main.efb50fee.js",
-    "runtime-main.js.map": "/github.io/image_tiles/static/js/runtime-main.efb50fee.js.map",
-    "static/js/2.b1265908.chunk.js": "/github.io/image_tiles/static/js/2.b1265908.chunk.js",
-    "static/js/2.b1265908.chunk.js.map": "/github.io/image_tiles/static/js/2.b1265908.chunk.js.map",
-    "index.html": "/github.io/image_tiles/index.html",
-    "precache-manifest.61ab1de7c431ef8f4cc5ee1d83d714c8.js": "/github.io/image_tiles/precache-manifest.61ab1de7c431ef8f4cc5ee1d83d714c8.js",
-    "service-worker.js": "/github.io/image_tiles/service-worker.js",
-    "static/css/main.d094f257.chunk.css.map": "/github.io/image_tiles/static/css/main.d094f257.chunk.css.map",
-    "static/js/2.b1265908.chunk.js.LICENSE.txt": "/github.io/image_tiles/static/js/2.b1265908.chunk.js.LICENSE.txt"
+    "main.css": "/image_tiles/static/css/main.d094f257.chunk.css",
+    "main.js": "/image_tiles/static/js/main.7c552e89.chunk.js",
+    "main.js.map": "/image_tiles/static/js/main.7c552e89.chunk.js.map",
+    "runtime-main.js": "/image_tiles/static/js/runtime-main.bec57d30.js",
+    "runtime-main.js.map": "/image_tiles/static/js/runtime-main.bec57d30.js.map",
+    "static/js/2.b1265908.chunk.js": "/image_tiles/static/js/2.b1265908.chunk.js",
+    "static/js/2.b1265908.chunk.js.map": "/image_tiles/static/js/2.b1265908.chunk.js.map",
+    "index.html": "/image_tiles/index.html",
+    "precache-manifest.acd121a3df69e7c8c63ac9c093fd51ce.js": "/image_tiles/precache-manifest.acd121a3df69e7c8c63ac9c093fd51ce.js",
+    "service-worker.js": "/image_tiles/service-worker.js",
+    "static/css/main.d094f257.chunk.css.map": "/image_tiles/static/css/main.d094f257.chunk.css.map",
+    "static/js/2.b1265908.chunk.js.LICENSE.txt": "/image_tiles/static/js/2.b1265908.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.efb50fee.js",
+    "static/js/runtime-main.bec57d30.js",
     "static/js/2.b1265908.chunk.js",
     "static/css/main.d094f257.chunk.css",
     "static/js/main.7c552e89.chunk.js"
